@@ -11,7 +11,7 @@ We used Microsoft SQL server as the database and hosted it on the web along with
 
 The animation and graphics for the game was developed using the native android animations such as propery and view animation.
 
-### Files Included
+### Files Included(Essential Ones)
 
 - SignIn.java: Contains code for checking the user credentials and logginIn the user.
 - SignUp.java: Code for signing up to the game and storing the new user details into the DB.
